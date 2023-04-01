@@ -42,9 +42,6 @@ To use this app, follow these steps:
 [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript  
 [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - A library for beautiful and accessible drag and drop for lists with React
 
-## License
-This project is licensed under the [MIT License](https://github.com/mwaney/react-todo-list/blob/main/LICENSE)
-
 ## Acknowledgments
 This app was created using [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Vite](https://vitejs.dev/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 Thanks to the team behind __react-beautiful-dnd__ for making drag and drop so easy to implement!
