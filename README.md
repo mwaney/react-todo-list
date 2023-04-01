@@ -1,16 +1,17 @@
 # TaskTrove 
-This is a Todo List App with Draggable Todo Items it allows you to create, update, cross out and delete tasks, 
-as well as drag and drop tasks between "Active Tasks" and "Completed Tasks" sections. The app is built using 
-React and TypeScript, and uses the react-beautiful-dnd library to make the Todo items draggable.
+This is a Todo List App with Draggable Todo Items.  
+It allows you to create, update, cross out and delete tasks,  
+as well as drag and drop tasks between "Active Tasks" and "Completed Tasks" sections.  
+The app is built using 
+__React and TypeScript__, and uses the __react-beautiful-dnd__ library to make the Todo items draggable.
 
 ## Features
-Create new tasks by typing into the input field and pressing enter or click on the Add button to the right
-Edit existing tasks by clicking on the Edit icon.
-Mark tasks as completed by dragging them to the "Completed Tasks" section.
-You can also Cross out Tasks already Done.
-Move completed tasks back to the "Active Tasks" section by dragging them back
-Delete tasks by clicking on the trash icon
-Visual feedback when dragging tasks using react-beautiful-dnd
+Create new todo items. 
+Edit existing todo items.
+Cross out to do items.
+Drag todo items to __"Completed Tasks"__ and __"Active Task"__ section.
+Delete todo items
+Visual feedback when dragging tasks using __react-beautiful-dnd__
 
 ## Installation
 To run this app locally,  
@@ -18,23 +19,23 @@ you'll need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.c
 
 ### Clone the repository and navigate to the project directory:
 1. git clone **https://github.com/mwaney/react-todo-list.git**
-2. cd react-todo-list
+2. cd __react-todo-list__
 ### Install the dependencies:
 Type the following in your terminal - **npm install**
-### Start the development server:
-Type the following in your terminal - **npm run dev**
-This will start the Vite development server 
+### Start the development server:  
+Type the following in your terminal - **npm run dev**  
+This will start the Vite development server   
 and open your project in your default browser.
 You can now begin using the app by adding and dragging todo items.
 
 ## Usage
 To use this app, follow these steps:
 
-Add a new task by typing into the input field and pressing enter or the add button to the right of the input  
-Edit an existing task by clicking on the pencil icon and typing in the updated text  
-Mark a task as completed by dragging it to the "Completed Tasks" section  
-Move a completed task back to the "Active Tasks" section by dragging it back  
-Delete a task by clicking on the trash icon
+- __Add a new task by__ typing into the input field and pressing enter or the add button to the right of the input  
+- __Edit an existing task__ by clicking on the pencil icon and typing in the updated text  
+- __Mark a task as completed__ by dragging it to the "Completed Tasks" section  
+- __Move a completed task__ back to the "Active Tasks" section by dragging it back  
+- __Delete a task__ by clicking on the trash icon
 
 ## Built With
 [React](https://reactjs.org/) - A JavaScript library for building user interfaces  
