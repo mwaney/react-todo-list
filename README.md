@@ -30,10 +30,10 @@ You can now begin using the app by adding and dragging todo items.
 ## Usage
 To use this app, follow these steps:
 
-Add a new task by typing into the input field and pressing enter or the add button to the right of the input
-Edit an existing task by clicking on the pencil icon and typing in the updated text
-Mark a task as completed by dragging it to the "Completed Tasks" section
-Move a completed task back to the "Active Tasks" section by dragging it back
+Add a new task by typing into the input field and pressing enter or the add button to the right of the input  
+Edit an existing task by clicking on the pencil icon and typing in the updated text  
+Mark a task as completed by dragging it to the "Completed Tasks" section  
+Move a completed task back to the "Active Tasks" section by dragging it back  
 Delete a task by clicking on the trash icon
 
 ## Built With
@@ -45,9 +45,5 @@ Delete a task by clicking on the trash icon
 This project is licensed under the [MIT License](https://github.com/mwaney/react-todo-list/blob/main/LICENSE)
 
 ## Acknowledgments
-This app was created using [React](https://reactjs.org/)  
-[TypeScript](https://www.typescriptlang.org/) 
-[Vite](https://vitejs.dev/)  
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-
-Thanks to the team behind react-beautiful-dnd for making drag and drop so easy to implement!
+This app was created using [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Vite](https://vitejs.dev/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+Thanks to the team behind __react-beautiful-dnd__ for making drag and drop so easy to implement!
