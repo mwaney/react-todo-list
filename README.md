@@ -15,17 +15,13 @@ Visual feedback when dragging tasks using react-beautiful-dnd
 ## Installation
 To run this app locally, you'll need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
 
-Clone the repository and navigate to the project directory:
-bash
-Copy code git clone **https://github.com/mwaney/react-todo-list.git**
-cd react-todo-list
-Install the dependencies:
-Copy code
-npm install
-Start the development server:
-arduino
-Copy code
-npm run dev
+### Clone the repository and navigate to the project directory:
+1. git clone **https://github.com/mwaney/react-todo-list.git**
+2. cd react-todo-list
+### Install the dependencies:
+Type the following in your terminal - **npm install**
+### Start the development server:
+Type the following in your terminal - **npm run dev**
 This will start the Vite development server and open your project in your default browser.
 You can now begin using the app by adding and dragging todo items.
 
