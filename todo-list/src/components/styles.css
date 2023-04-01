@@ -107,6 +107,16 @@
     color: #B46060
 }
 
+.dragactive {
+    background-color: rgba(148, 5, 122, 0.5);;
+}
+.dragcomplete {
+    background-color: #fdcbcb;
+}
+.drag {
+    box-shadow: 0 0 20px black;
+}
+
 @media (max-width: 700px) {
     .input {
         width: 95%;
